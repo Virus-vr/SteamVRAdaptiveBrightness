@@ -4,6 +4,8 @@ Overview
 -
 Small utility that continuisly adjusts the screen brightness of the valve index via SteamVR. This allowes for much better black levels in night scenes. This feels much more natural and it makes bright scenes much brighter in comparision. First time I felt blinded in VR lol.
 
+Thanks to https://github.com/Raphiiko/IBControl. This utility has been insprited by its manual brightness control. 
+
 How to use:
 -
 1. Download compiled build from releases.
